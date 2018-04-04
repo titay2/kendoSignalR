@@ -1,0 +1,17 @@
+{
+  "name": "signalrcliant2",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tehetena Mashresha <tehetena.mashresha@semel.fi>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
